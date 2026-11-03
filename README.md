@@ -6,8 +6,10 @@
 
 **Learn from recurring failures. Propose targeted edits. Verify before committing.**
 
-[Jusheng Zhang](https://jushengzhang.github.io/), Kaitong Cai, Jing Yang, Ziliang Chen,<br>
-Yongsen Zheng, Kwok-Yan Lam, Liang Lin, Keze Wang
+**Contributors**
+
+[Jusheng Zhang](https://jushengzhang.github.io/), [Kaitong Cai](https://arxiv.org/search/cs?searchtype=author&query=Cai,+K), [Qinglin Zeng](https://arxiv.org/search/cs?searchtype=author&query=Zeng,+Q), [Ningyuan Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu,+N), [Stephen Fan](https://arxiv.org/search/cs?searchtype=author&query=Fan,+S),<br>
+Jing Yang, Ziliang Chen, Yongsen Zheng, Kwok-Yan Lam, Liang Lin, Keze Wang
 
 [![Paper](https://img.shields.io/badge/Paper-PMLR-4064AC?style=for-the-badge)](https://proceedings.mlr.press/v306/zhang26f.html)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.10035-B3424A?style=for-the-badge)](https://arxiv.org/abs/2510.10035)
@@ -16,6 +18,8 @@ Yongsen Zheng, Kwok-Yan Lam, Liang Lin, Keze Wang
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3572A5?style=for-the-badge)](pyproject.toml)
 
 </div>
+
+> **Contributor acknowledgment:** Qinglin Zeng, Ningyuan Liu, and Stephen Fan also contributed to this work; I apologize for inadvertently omitting them from the initial repository credits, which have now been corrected.
 
 <p align="center"><img src="assets/readme/overview.png" width="100%" alt="Original paper overview comparing AFlow, MaAS, and CE-Graph: failure signatures are clustered into recurring modes, then guide verified workflow edits."></p>
 <p align="center"><sub>Original paper figure. CE-Graph turns execution failures into signals for targeted workflow refinement.</sub></p>
