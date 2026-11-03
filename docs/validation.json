@@ -1,0 +1,21 @@
+{
+  "checked_on": "2026-11-03",
+  "python": "3.13.13",
+  "dependencies": {
+    "cegraph-refinement": "0.1.0",
+    "numpy": "2.2.6",
+    "scikit-learn": "1.7.2",
+    "datasets": "5.1.0",
+    "huggingface-hub": "2.4.0"
+  },
+  "editable_install": "passed",
+  "pip_check": "passed",
+  "offline_tests": {
+    "passed": 8,
+    "failed": 0
+  },
+  "offline_demo": "passed",
+  "cli_help": "passed",
+  "paid_api_benchmarks": "not run",
+  "scope": "Offline checks verify software behavior, not numerical reproduction of paper results."
+}
