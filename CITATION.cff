@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this reference implementation, please cite the published paper below."
+title: "CE-Graph: Failure-Driven Workflow Refinement"
+type: software
+version: 0.1.0
+date-released: 2026-11-03
+license: Apache-2.0
+repository-code: "https://github.com/jushengzhang/CE-Graph"
+url: "https://proceedings.mlr.press/v306/zhang26f.html"
+authors:
+  - family-names: Zhang
+    given-names: Jusheng
+  - family-names: Cai
+    given-names: Kaitong
+  - family-names: Yang
+    given-names: Jing
+  - family-names: Chen
+    given-names: Ziliang
+  - family-names: Zheng
+    given-names: Yongsen
+  - family-names: Lam
+    given-names: Kwok-Yan
+  - family-names: Lin
+    given-names: Liang
+  - family-names: Wang
+    given-names: Keze
+preferred-citation:
+  type: conference-paper
+  title: "Failure-Driven Workflow Refinement"
+  year: 2026
+  collection-title: "Proceedings of the 43rd International Conference on Machine Learning"
+  collection-number: "306"
+  start: "154214"
+  end: "154240"
+  publisher:
+    name: PMLR
+  url: "https://proceedings.mlr.press/v306/zhang26f.html"
+  authors:
+    - {family-names: Zhang, given-names: Jusheng}
+    - {family-names: Cai, given-names: Kaitong}
+    - {family-names: Yang, given-names: Jing}
+    - {family-names: Chen, given-names: Ziliang}
+    - {family-names: Zheng, given-names: Yongsen}
+    - {family-names: Lam, given-names: Kwok-Yan}
+    - {family-names: Lin, given-names: Liang}
+    - {family-names: Wang, given-names: Keze}

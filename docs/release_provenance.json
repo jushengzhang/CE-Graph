@@ -1,0 +1,9 @@
+{
+  "original_archive": "cegraph_release.tar.gz",
+  "original_sha256": "72c92ec87ab3460f58f316850180e090e5aea2ceecb82cc12e5409bdd55c0d5a",
+  "release_scope": "Reference implementation; the original archive described itself as a clean-room reproduction. No claim of exact experiment reproduction is added.",
+  "published_paper": "https://proceedings.mlr.press/v306/zhang26f.html",
+  "figure": "https://arxiv.org/html/2510.10035v1/main_flow.png",
+  "readme_style_reference": "https://github.com/waltstephen/UMM-Reflection",
+  "prepared_on": "2026-11-03"
+}

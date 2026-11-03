@@ -1,0 +1,4 @@
+datasets==5.1.0
+huggingface-hub>=1.31.0,<3
+scikit-learn==1.7.2
+numpy==2.2.6
